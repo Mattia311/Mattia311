@@ -1,3 +1,14 @@
+Hello there, my name is Mattia 👋 
+I am a Jr. Full Stack Web Developer based in Milano, Italy, with a vibrant passion for technology 💻.
+
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @Mattia311
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
